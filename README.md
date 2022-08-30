@@ -14,7 +14,7 @@
 <h3 align="left">Algunas Redes Donde estoy:</h3>
 <p align="left">
 <a href="https://twitter.com/itzmoisexd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzmoisexd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/itz da moisexd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itz da moisexd" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/Itzda moisexd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itz da moisexd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes De Programación y Herramientas que Uso:</h3>
