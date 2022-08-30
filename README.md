@@ -5,7 +5,7 @@
 
 - Actualmente Estoy Trabajando En: **Desarrollar Juegos**
 
-- 📖 Estoy Aprendiendo **Java, JavaScript, CSS, HTML, Desarrollar juegos en Untity**
+- 📖 Estoy Aprendiendo **Java, JavaScript, CSS, HTML y Desarrollar juegos en Untity**
 
 - 📫 Contacto De Gmail **itzmoisexd@gmail.com**
 
